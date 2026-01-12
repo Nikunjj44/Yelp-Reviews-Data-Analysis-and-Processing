@@ -14,9 +14,9 @@ Yelp is an online platform that connects businesses with its customers. Yelp Ope
    The filtered dataset after choosing New Orleans as the city of focus is analyzed and a summary of statistics is generated. Alongside this heatmaps of the businesses in New Orleans are also generated to get insights based on geographic context. Furthermore tokenization and stemming is performed. Two stemming algorithms namely Porter stemming and Lancaster stemming are evaluated along side results when no stemming is applied.
 
 3. **Negation Detection**  
-   A command-line interface (CLI) application is developed for detecting negations. The applications aims detect negations in reviews of a particular business. Post detecting negations the application also provides some statistics that can help the business and customers viewing the business to better understand the sentiments expressed the the reviewers.
+   A command-line interface (CLI) application is developed for detecting negations. The applications aims detect negations in reviews of a particular business. Post detecting negations, the application provides statistics including average star ratings, count of reviews containing negations, total negation words found, most frequent negation terms, and sample sentences with negations that can help the business and customers viewing the business to better understand critical feedback and areas of concern expressed by the reviewers.
 
-4. **Sentiment Analysis**  
+5. **Sentiment Analysis**  
    A command-line interface (CLI) application is developed for performing sentiment analysis on business reviews. The application aims to analyze customer sentiments for a particular business in New Orleans by processing their reviews using VADER sentiment analysis. Post analyzing the sentiments, the application provides statistics including an overall sentiment classification (Positive/Neutral/Negative), average sentiment score, and sentiment distribution that can help the business and potential customers better understand the general customer satisfaction and opinions expressed by the reviewers.
 
 ## Future Scope
