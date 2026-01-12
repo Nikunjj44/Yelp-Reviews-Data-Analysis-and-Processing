@@ -4,6 +4,16 @@ This project aims to cover some components of end-to-end text data management an
 
 Yelp is an online platform that connects businesses with its customers. Yelp Open Dataset is a large collection of data that is readily available for public use. This contains real-world business data, user profiles and reviews shared by users over various metropolitan areas. With it being available to the public and vast size and attributes of the data, it is widely used for review data analysis and processing.
 
+## Tech Stack Used  
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=for-the-badge)
+
 ## Methodology
 1. **Data Sampling**  
    Yelp’s Open Dataset includes reviews from multiple metropolitan areas. So, sampling is done on businesses and reviews datasets on one metropolitan area. To choose a metropolitan area, the business dataset is processed. After analyzing this dataset, some discrepancies like “Reno” and “reno” being the same city but accounting for different number of reviews are identified. Therefore, case folding is performed on this column and all of the city names are converted into lowercase to standardize them.
