@@ -7,12 +7,12 @@ Yelp is an online platform that connects businesses with its customers. Yelp Ope
 ## Tech Stack Used  
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=for-the-badge)
 
 ## Methodology
 1. **Data Sampling**  
@@ -32,6 +32,13 @@ Yelp is an online platform that connects businesses with its customers. Yelp Ope
 ## Future Scope
 
 The CLI applications can further be improved by converting it into a web-based application with the help of Streamlit. Along side this the Sentiment Analysis and Negation Detection applications can be integrated together in order to draw more meaningful and impactful insights.
+
+## Academic Context
+Completed during my Graduate studies at **Nanyang Technological University (NTU), Singapore**.
+
+* **Course:** Text Data Management & Analysis
+* **Semester:** AY 2025/2026, Semester 1
+* **Grade Achieved:** A-
 
 ## Usage
 **Note for current/future NTU students:** While this repository is public, please ensure you adhere to NTU's Academic Integrity Policy. This is intended as a reference for my personal portfolio; using this code for your own graded assignments is strictly prohibited by the University.
